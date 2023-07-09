@@ -7,6 +7,7 @@
 body {
   padding: 0;
   margin: 0;
+  background: #0c192c;
 }
 
 .progress-bar {
@@ -32,4 +33,8 @@ body {
   background-color: #069;
   border-radius: 1em;
   padding: 1em;
+}
+
+.container {
+  position: relative;
 }
